@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>13526838296-2hjm8m43864bvbmeqaphijbmlh0tpdmk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.13526838296-2hjm8m43864bvbmeqaphijbmlh0tpdmk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUJSKT5DYQmCiEVVhBIhxJpSCZfxGSw7Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>13526838296</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.conversa</string>
+	<key>PROJECT_ID</key>
+	<string>conversa-5354b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>conversa-5354b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:13526838296:ios:f1a51377c6aaa1ee1ca76d</string>
+</dict>
+</plist>
